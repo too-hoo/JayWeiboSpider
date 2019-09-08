@@ -50,9 +50,9 @@ def save_columns_to_csv(columns, encoding='utf-8'):
 
 4、使用数据分析用户的年龄、性别分布
 - 效果显示：
-![](age_analysis.png)
 ![](age_analysis2.png)
 ![](age_analysis.png)
+![](gender_analysis.png)
 
 5、分析粉丝团的地区分布
 - 效果显示：
